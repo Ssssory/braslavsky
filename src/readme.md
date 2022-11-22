@@ -6,3 +6,9 @@ ___
 - database
 - logic
 - etc
+
+## Для начала работы необходимо:
+Запустить миграции
+
+```python src/migration.py```
+
